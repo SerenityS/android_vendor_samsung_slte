@@ -34,19 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/slte/proprietary/etc/firmware/florida-dsp4-rx-anc-nb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-nb.wmfw \
     vendor/samsung/slte/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.bin:system/etc/firmware/florida-dsp4-rx-anc-wb.bin \
     vendor/samsung/slte/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-wb.wmfw \
-    vendor/samsung/slte/proprietary/lib/libmysound.so:system/lib/libmysound.so \
-    vendor/samsung/slte/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
-    vendor/samsung/slte/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
-    vendor/samsung/slte/proprietary/lib/lib_SA_GoogleFX_ver124b.so:system/lib/lib_SA_GoogleFX_ver124b.so \
-    vendor/samsung/slte/proprietary/lib/lib_SoundAlive_play_ver125e.so:system/lib/lib_SoundAlive_play_ver125e.so \
-    vendor/samsung/slte/proprietary/lib/lib_SoundAlive_ver118t.so:system/lib/lib_SoundAlive_ver118t.so \
-    vendor/samsung/slte/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
-    vendor/samsung/slte/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
-    vendor/samsung/slte/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
-    vendor/samsung/slte/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
-    vendor/samsung/slte/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
-    vendor/samsung/slte/proprietary/vendor/lib/liblvverx_3.21.15.so:system/vendor/lib/liblvverx_3.21.15.so \
-    vendor/samsung/slte/proprietary/vendor/lib/liblvvetx_3.21.15.so:system/vendor/lib/liblvvetx_3.21.15.so \
     vendor/samsung/slte/proprietary/vendor/firmware/seiren_fw_dram.bin:system/vendor/firmware/seiren_fw_dram.bin \
     vendor/samsung/slte/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
     vendor/samsung/slte/proprietary/vendor/firmware/bcm4350_V0301.0634.hcd:system/vendor/firmware/bcm4350_V0301.0634.hcd \
