@@ -143,5 +143,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/slte/proprietary/etc/wifi/nvram_net.txt_muratafem1:system/etc/wifi/nvram_net.txt_muratafem1 \
     vendor/samsung/slte/proprietary/etc/wifi/nvram_net.txt_semco:system/etc/wifi/nvram_net.txt_semco \
     vendor/samsung/slte/proprietary/etc/wifi/nvram_net.txt_semco3rd:system/etc/wifi/nvram_net.txt_semco3rd \
-    vendor/samsung/slte/proprietary/etc/wifi/nvram_net.txt_wisol:system/etc/wifi/nvram_net.txt_wisol \
-    vendor/samsung/slte/proprietary/bin/cbd:system/bin/cbd
+    vendor/samsung/slte/proprietary/etc/wifi/nvram_net.txt_wisol:system/etc/wifi/nvram_net.txt_wisol
