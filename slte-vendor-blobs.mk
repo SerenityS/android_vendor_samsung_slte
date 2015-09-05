@@ -36,6 +36,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/slte/proprietary/etc/firmware/florida-dsp4-rx-anc-wb.wmfw:system/etc/firmware/florida-dsp4-rx-anc-wb.wmfw \
     vendor/samsung/slte/proprietary/vendor/firmware/seiren_fw_dram.bin:system/vendor/firmware/seiren_fw_dram.bin \
     vendor/samsung/slte/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
+    vendor/samsung/slte/proprietary/vendor/lib/liblvverx_3.21.15.so:system/vendor/lib/liblvverx_3.21.15.so \
+    vendor/samsung/slte/proprietary/vendor/lib/liblvvetx_3.21.15.so:system/vendor/lib/liblvvetx_3.21.15.so \
     vendor/samsung/slte/proprietary/vendor/firmware/bcm4350_V0301.0634.hcd:system/vendor/firmware/bcm4350_V0301.0634.hcd \
     vendor/samsung/slte/proprietary/vendor/firmware/bcm4350_V0301.0636_wisol.hcd:system/vendor/firmware/bcm4350_V0301.0636_wisol.hcd \
     vendor/samsung/slte/proprietary/lib/hw/camera.vendor.universal5430.so:system/lib/hw/camera.vendor.universal5430.so \
