@@ -94,6 +94,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/slte/proprietary/vendor/lib/liblvvetx_3.21.15.so:system/vendor/lib/liblvvetx_3.21.15.so \
     vendor/samsung/slte/proprietary/vendor/firmware/bcm4350_V0301.0634.hcd:system/vendor/firmware/bcm4350_V0301.0634.hcd \
     vendor/samsung/slte/proprietary/vendor/firmware/bcm4350_V0301.0636_wisol.hcd:system/vendor/firmware/bcm4350_V0301.0636_wisol.hcd \
+	vendor/samsung/slte/proprietary/vendor/firmware/bcm4350_V0301.0646.hcd.hcd:system/vendor/firmware/bcm4350_V0301.0646.hcd.hcd \
     vendor/samsung/slte/proprietary/lib/hw/camera.universal5430.so:system/lib/hw/camera.universal5430.so \
     vendor/samsung/slte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/slte/proprietary/lib/libvdis.so:system/lib/libvdis.so \
