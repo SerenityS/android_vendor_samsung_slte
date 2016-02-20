@@ -94,7 +94,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/slte/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
     vendor/samsung/slte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/slte/proprietary/lib/lib_SoundAlive_play_ver125e.so:system/lib/lib_SoundAlive_play_ver125e.so \
-    vendor/samsung/slte/proprietary/lib/libarcsoft_nighthawk.so:system/lib/libarcsoft_nighthawk.so \
     vendor/samsung/slte/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/samsung/slte/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/slte/proprietary/lib/libyasalgo.so:system/lib/libyasalgo.so \
@@ -123,7 +122,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/slte/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/slte/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
     vendor/samsung/slte/proprietary/lib/lib_SamsungVAD_v01007.so:system/lib/lib_SamsungVAD_v01007.so \
-    vendor/samsung/slte/proprietary/lib/libliveframework.so:system/lib/libliveframework.so \
     vendor/samsung/slte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/slte/proprietary/lib/libmaet.so:system/lib/libmaet.so \
     vendor/samsung/slte/proprietary/app/FFFFFFFF000000000000000000000001.drbin:system/app/FFFFFFFF000000000000000000000001.drbin \
